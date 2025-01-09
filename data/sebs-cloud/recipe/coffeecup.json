@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "props",
+  "ingredient": "minecraft:paper",
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:item_name": "\"Coffee Cup\"",
+      "minecraft:item_model": "cookie:coffeecup",
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    }
+  }
+}

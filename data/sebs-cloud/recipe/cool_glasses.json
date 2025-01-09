@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "glasses",
+  "ingredient": "minecraft:paper",
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:item_name": "\"Cool Glasses\"",
+      "minecraft:item_model": "cookie:cool_glasses",
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    }
+  }
+}

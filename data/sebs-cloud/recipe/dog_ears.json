@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ears",
+  "ingredient": "minecraft:paper",
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:item_name": "\"Dog ears\"",
+      "minecraft:item_model": "cookie:dog_ears",
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    }
+  }
+}

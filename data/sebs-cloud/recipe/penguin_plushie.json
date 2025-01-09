@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "plushies",
+  "ingredient": "minecraft:paper",
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:item_name": "\"Penguin Plushie\"",
+      "minecraft:item_model": "cookie:penguin_plushie",
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    }
+  }
+}

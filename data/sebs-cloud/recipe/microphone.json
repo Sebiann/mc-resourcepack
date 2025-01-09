@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "gameshow",
+  "ingredient": "minecraft:paper",
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:item_model": "gameshow:microphone",
+      "minecraft:item_name": "\"Microphone\"",
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    }
+  }
+}

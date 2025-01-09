@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "crown",
+  "ingredient": "minecraft:paper",
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:item_name": "\"Heart Crown\"",
+      "minecraft:item_model": "cookie:heart_crown",
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    }
+  }
+}
