@@ -1,0 +1,16 @@
+{
+  "type": "sebs-cloud:dim-again",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "height": 64,
+          "block": "minecraft:sandstone"
+        }
+      ]
+    }
+  }
+}
