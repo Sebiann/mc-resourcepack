@@ -10,6 +10,9 @@
           "height": 64,
           "block": "minecraft:sandstone"
         }
+      ],
+      "structure_overrides": [
+        "sebs-cloud:set"
       ]
     }
   }
