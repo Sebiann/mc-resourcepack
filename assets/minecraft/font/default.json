@@ -1,0 +1,11 @@
+{
+    "providers": [
+		{
+			"type":"bitmap",
+			"file":"font/logo.png",
+			"ascent":50,
+			"height":50,
+			"chars":["\uD100"]
+		}
+    ]
+}

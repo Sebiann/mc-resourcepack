@@ -1,0 +1,9 @@
+{
+    "music_disc.secret_tunnels": {
+        "sounds": [
+            {
+                "name": "sebspack:records/secret_tunnels" 
+            }
+        ]
+    }
+}
