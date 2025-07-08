@@ -30,9 +30,6 @@ jobs:
 
             # Allow files from optifine
             allow_mods = ['OptiFine']
-            
-            ['assets/sebspack/records/secret_tunnels.ogg']
-            force_include = true
       - name: Calculate SHA1
         run: |
           echo "PACK_SHA1=$(sha1sum /tmp/Seb-Server-RP.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
